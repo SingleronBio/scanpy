@@ -16,5 +16,4 @@ python:
     - doc
     - leiden
 formats:
-  - epub
   - htmlzip
