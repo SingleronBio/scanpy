@@ -15,4 +15,6 @@ python:
     extra_requirements:
     - doc
     - leiden
-formats: all
+formats:
+  - epub
+  - htmlzip
